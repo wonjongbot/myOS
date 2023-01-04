@@ -14,4 +14,4 @@ clear:
 	rm -f boot/boot.img
 
 run:
-	qemu-system-x86_64 -drive format = raw, file = os.img  
+	qemu-system-x86_64 -drive format=raw,file=os.img  
