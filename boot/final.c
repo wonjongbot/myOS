@@ -2,3 +2,4 @@
 #include "graphics.c"
 #include "main.c"
 #include "font.c"
+#include "input.c"
